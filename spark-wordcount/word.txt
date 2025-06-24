@@ -1,0 +1,7 @@
+The Apache Spark! framework is FAST for big-data processing
+Spark's MLlib handles machine learning: 100% faster than Hadoop
+To use Spark, read docs.spark.apache.org and try examples
+The quick brown fox jumps over the lazy dog
+Scala, Java, Python! All work with Spark 2.0
+!!!
+state-of-the-art solutions
